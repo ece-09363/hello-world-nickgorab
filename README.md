@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: 20180129_130729.jpg
 
-2. Tell me something interesting about yourself
+2. My name is Nick and I'm a Junior ECE student here at Rowan. I'm a big backpacker and really enjoy embedded system design.
